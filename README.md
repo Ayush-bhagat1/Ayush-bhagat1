@@ -11,6 +11,7 @@
 <br />
 <br />
 <br />
+
 🧑‍💻 I'm passionate programmer!<br />
 🌐 I'm currently learning Internet! 😆  <br />
 🎵 I don't code without music 😜 <br />
@@ -28,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Git" **alt="Git" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="Git" **alt="Git" width="60" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" title="Git" **alt="Git" width="60" height="40"/>&nbsp;
+  
   
 </div>
 
