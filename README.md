@@ -10,8 +10,7 @@
 </a>
 <br />
 <br />
-<br /> Glad to see you here! 
-<img src="https://komarev.com/ghpvc/?username=anurag0608&label=Profile%20views&color=ce9927&style=flat" alt="anurag0608" />
+<br />
 🧑‍💻 I'm passionate programmer!<br />
 🌐 I'm currently learning Internet! 😆  <br />
 🎵 I don't code without music 😜 <br />
